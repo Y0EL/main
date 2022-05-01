@@ -1,13 +1,26 @@
-# 💼 Responsive Mini Portfolio
-## [Watch it on youtube](https://youtu.be/mq0xJxOTiYo)
-### 💼 Responsive Mini Portfolio
+### Hai, Gue [Yoel](https://yoelandreas.manoppo.my.id) 👋
 
-- Responsive mini portfolio website Using HTML CSS & JavaScript
-- Contains animations css.
-- Includes a light and dark mode.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+Gue hanya seorang pelajar SMA yang biasa biasa saja, gue bersekolah di SMA 41 Jakarta Utara
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+**Gue sangat tertarik pada**:
+- HTML & CSS
+- Klasifikasi
+- Monitoring
+- Fie Fie
 
-![preview img](/preview.png)
+ **Gue bersedia untuk**:
+
+- Melakukan kolaborasi,
+- Menjadi pekerja magang / Internship
+- Bersedia menjadi reviewer PC
+
+## Sosial media:
+
+<p align = "center">
+
+[<img src="https://img.shields.io/badge/whatsapp-%2312100E.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=black" />](https://wa.me/6283844000383)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/saya_andreas)
+</p>
+
+| <a href="https://github.com/Y0EL"><img align="center" src="https://yoelandreas.manoppo.my.id/assets/20220417_233727.png" alt="Yoel" /></a> | 
+| ------------- |
