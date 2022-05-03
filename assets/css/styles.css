@@ -402,12 +402,6 @@ body.dark-theme {
   font-size: var(--smaller-font-size);
 }
 
-.desc {
-  font-size: var(--normal-font-size);
-  text-align: center;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-
 /* Hide and show projects & skills */
 .filters [data-content] {
   display: none;
